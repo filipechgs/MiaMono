@@ -1,0 +1,26 @@
+{
+  "name": "myney",
+  "version": "1.0.0",
+  "description": "Sistema de fluxo de caixa simples",
+  "homepage": "https://github.com/filipechgs/myney#readme",
+  "bugs": {
+    "url": "https://github.com/filipechgs/myney/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/filipechgs/myney.git"
+  },
+  "license": "ISC",
+  "author": "Filipe Chagas",
+  "type": "TS",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "typescript": "^5.8.3"
+  }
+}
