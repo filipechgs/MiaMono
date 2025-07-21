@@ -67,6 +67,11 @@ Antes de qualquer outra coisa, é fundamental que o sistema seja desenvolvido fo
 
 // Desenvolver
 
+### Requisitos não funcionais
+
+- Usar versão mais recente do node, com recurso experiemental de aceitação do Type Script nativo, e biblioteca SQLite nativa.
+- Fácil instalação em ambiente desktop, multiplataforma.
+
 ## Modelos de dados e de fluxo de trablho
 
 ## Processos de dados
