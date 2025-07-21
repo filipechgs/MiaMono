@@ -13,10 +13,11 @@ A missãodo MiaMono é oferecer uma solução gratuita, de código aberto, simpl
 O projeto sugiu da minha necessidade pessoal de ter um **software de gestão de fluxo de caixa, gratuito, offline, fácil e intuitivo** de usar. O público alvo são profissionais liberais, como eu, pequenas empresas ou qualquer pessoa que queira gerir melhor suas finanças.
 
 ### Necessidades do usuário
+Essas são as minhas necessidade pessoáis. Não fiz pesquisas para seber se corresponde às de outros potenciáis usuários.
 
 - O usuário deve poder **informar as entradas e saídas de cada mês, uma de cada vez ou por meio da importação de extratos bancários**. Podem ser importados extratos de contas bancárias distintas.
 
-- O programa deve dar a opção de **exibir a movimentação unificada de todas as contas ou o movimento de cada conta bancária, separadamente**.
+- O programa deve dar a opção de **exibir a movimentação unificada de todas as contas e o movimento de cada conta bancária, separadamente**.
 
 - O usuário poderá cadastrar clientes, fornecedores, prestadores, serviços/produtos oferecidos e o percentual de impostos vinculado a cada serviço/produto. 
 
@@ -52,7 +53,15 @@ Antes de qualquer outra coisa, é fundamental que o sistema seja desenvolvido fo
 
 ### Requisitos de usuário
 
-// Desenvolver
+- Gratuidade
+- Segurança de dados: programa desktop offline.
+- Uso fácil e intuitivo
+- Ter mais de um usuário: a pessoa pode ter um usuário para suas contas PJ e outro para as contas de pessoa física, por exemplo.
+- Informar apenas movimentações de entradas, saidas, 
+- Importar extrato bancário
+- Visualizações claras e amigáveis da movimentação: no mês e no ano
+- Calculo automático dos impostos que serão cobrados
+- Simulação de cenários financeiros, (marcando se a movimentação foi feita ou se é uma projeção)
 
 ### Requisitos funcionais
 
@@ -71,3 +80,5 @@ Antes de qualquer outra coisa, é fundamental que o sistema seja desenvolvido fo
 ## Notas para manutenção
 
 // Desenvolver
+
+## Plano de qualidade
